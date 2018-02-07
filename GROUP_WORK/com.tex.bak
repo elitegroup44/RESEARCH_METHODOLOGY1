@@ -1,0 +1,67 @@
+
+
+\documentclass[12pt,]{article}
+\usepackage{zed-csp,graphicx,color}%from
+\pagenumbering{roman}
+\begin{document}
+\begin{titlepage}
+ \begin{figure}[h]
+  \centerline{\small MAKERERE 
+  \includegraphics[width=0.1\textwidth]  {muk_log} UNIVERSITY}
+\end{figure}
+\centerline{COLLEGE OF COMPUTING AND INFORMATION SCIENCES\\}
+\paragraph*{•}
+\centerline{DEPARTMENT OF COMPUTER SCIENCE\\}
+\paragraph*{•}
+\centerline{COURSEWORK: RESEARCH METHODOLOGY(BIT 2207)\\}
+\paragraph*{•}
+\centerline{LECTURER: MR.ERNEST MWEBAZE}
+\paragraph*{•}
+\centerline{\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{No.}& \textbf{Student Name} & \textbf{RegNo} & \textbf{Signature} \\ \hline
+\textit{1}&\textbf{KIZITO ANDREW} & \textit{16/U/6236/PS}& \textit{} \\ \hline
+\textit{2}&\textbf{NAMUYOMBA ANGELLA ZERIDA }& \textit{15/U/10595/PS}& \textit{} \\ \hline
+\textit{3}&\textbf{KITIYO MARTIN} & \textit{16/U/18802} & \textit{} \\ \hline
+\textit{4}&\textbf{ATUHAIRE DIANA}& \textit{16/U/3826/EVE}  & \textit{} \\ \hline
+\textit{5} &\textbf{}& \textit{}  & \textit{} \\ \hline
+\textit{6}&\textbf{ } & \  & \textit{} \\ 
+ \hline
+\end{tabular}}
+\paragraph*{•}
+  \begin{flushright}
+  The Report,\\
+  DATE: $February,6^{th},2018$.
+  
+
+  \end{flushright}
+\date{\today}
+\end{titlepage}
+
+\newpage
+\tableofcontents
+\newpage
+
+
+\pagenumbering{arabic}
+\section{RESEARCH TITTLE}
+Assessing the extent to which information technology has affected the level of development in Kampala today
+
+\section{PROBLEM STATEMENT}
+For a period of five years (2009-2014) kampala has had only           small population growth in using information technology (Ministry of Information and Technology report 2014).\\
+ This shows that kampala has not been able to use Information Technology extensively since it is a developing country compared to other developed countries like: China, Japan, USA, etc which have taken up Information Technology in the provision of their services.\\  This has highly reduced her level of development that is: reduction in rural electrification, water supply and industrialization
+
+\section{MOJOR OBJECTIVE}
+To examine the extent at which information technology has affected the level of development in Kampala today 
+
+\subsection{MINOR OBJECTIVE}
+	To establish Information Technology based services in Kampala.\\To identify the level at which Information Technology is being used in providing services. \\To determine the effects of Information Technology in Kampala today (both positive and negative).
+
+
+\end{document}
+
+
+
+
+
+
